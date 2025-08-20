@@ -61,8 +61,8 @@
 <td width="30"> </td>
  
 <td align="center">
-      <a href="https://open.spotify.com/track/6XimI1O15wpfwUdrCnlrxo?si=86398d91e71243b4" target="_blank">
-        <img src="https://imgs.search.brave.com/1lk21iSJ-ZgeO4U1eiUSAOEe31wi1XHBDkID-CpVdWQ/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9yZXNv/dXJjZXMudGlkYWwu/Y29tL2ltYWdlcy9h/ZGE4YTc3OC84MDc0/LzQ0YjAvOGY1ZS9k/YmMxMWRmYWZmODIv/NjQweDY0MC5qcGc" alt="All these things I hate - Bullet for my Valentine" width="150">
+      <a href="https://open.spotify.com/track/1uiwlmWedlNpzAxDSRGqdK?si=72d0928901d646cd" target="_blank">
+        <img src="https://imgs.search.brave.com/1lk21iSJ-ZgeO4U1eiUSAOEe31wi1XHBDkID-CpVdWQ/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9yZXNv/dXJjZXMudGlkYWwu/Y29tL2ltYWdlcy9h/ZGE4YTc3OC84MDc0/LzQ0YjAvOGY1ZS9k/YmMxMWRmYWZmODIv/NjQweDY0MC5qcGc" alt="Lost In You - Three Days Grace" width="150">
       </a><br/>
       <b>Lost In You</b><br/><i>Three Days Grace</i>
     </td>
