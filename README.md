@@ -62,9 +62,9 @@
  
 <td align="center">
       <a href="https://open.spotify.com/track/6XimI1O15wpfwUdrCnlrxo?si=86398d91e71243b4" target="_blank">
-        <img src="https://imgs.search.brave.com/ZzSMxR69M9yP_PAL8NYsVPoNS8_Bqxb7PQLim81gV5A/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9wcmV2/aWV3LnJlZGQuaXQv/YmVzdC1zb25nLW9u/LXRoZS1wb2lzb24t/djAtc2o4YTlldGV0/MGRmMS5qcGVnP3dp/ZHRoPTY0MCZjcm9w/PXNtYXJ0JmF1dG89/d2VicCZzPWRkM2M1/ZTQ5OTk5NTU1Njgx/OGMzM2RlNTU0OTI0/NzAxNWFlODYxMjE" alt="All these things I hate - Bullet for my Valentine" width="150">
+        <img src="https://imgs.search.brave.com/1lk21iSJ-ZgeO4U1eiUSAOEe31wi1XHBDkID-CpVdWQ/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9yZXNv/dXJjZXMudGlkYWwu/Y29tL2ltYWdlcy9h/ZGE4YTc3OC84MDc0/LzQ0YjAvOGY1ZS9k/YmMxMWRmYWZmODIv/NjQweDY0MC5qcGc" alt="All these things I hate - Bullet for my Valentine" width="150">
       </a><br/>
-      <b>All these things I hate</b><br/><i>Bullet for my Valentine</i>
+      <b>Lost In You</b><br/><i>Three Days Grace</i>
     </td>
 
 <td width="30"> </td>
