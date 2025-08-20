@@ -1,7 +1,7 @@
 <div align="center">
 <h2> Hello There, I'm Andrés Felipe! <img src="https://github.com/abdoachhoubi/abdoachhoubi/blob/main/gifs/Hi.gif" width="30"></h2>
 </div>
-<p><img align="right" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" alt="adam-pw" width="420"/></p> 
+<p><img align="right" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" alt="adam-pw" width="410"/></p> 
 
     "Do or do not, there's no try" - Yoda
 
